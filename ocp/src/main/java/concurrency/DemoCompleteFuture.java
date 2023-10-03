@@ -33,9 +33,14 @@ public class DemoCompleteFuture {
 
         CompletableFuture<Void> complete = CompletableFuture.allOf
                 (runningList.toArray(new CompletableFuture[execList.size()]));
-        complete.get();
-        System.out.println("hi");
-        System.out.println("Number error" + countError);
+//        complete.get(3600, TimeUnit.SECONDS);
+        complete.join();
+
+        if (complete.isDone()) {
+            System.out.println("hi");
+            System.out.println("Number error" + countError);
+            System.out.println("hi2");
+        }
     }
 
     private static CompletableFuture<String> asyncTask(int i) {
