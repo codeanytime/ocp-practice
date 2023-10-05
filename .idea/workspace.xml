@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_email_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/concurrency/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/concurrency/model/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/mail/SendHtmlEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp/ocp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/ocp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/concurrency/CompleteFutureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/concurrency/CompleteFutureExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/concurrency/DemoCompleteFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/concurrency/DemoCompleteFuture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp/target/classes/concurrency/CompleteFutureExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/target/classes/concurrency/CompleteFutureExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp/target/classes/concurrency/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/target/classes/concurrency/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/concurrency/executor/DemoExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/concurrency/executor/DemoExecutor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2WD26eh6kixC82J6oOfku2zHfUt" />
   <component name="ProjectViewState">
@@ -53,13 +47,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SendHtmlEmail">
-    <configuration name="CompleteFutureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.CompleteFutureExample" />
+  <component name="RunManager" selected="Application.DemoExecutor">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.executor.Calculator" />
       <module name="ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.*" />
+          <option name="PATTERN" value="concurrency.executor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoCompleteFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.DemoCompleteFuture" />
+    <configuration name="CompleteFutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.executor.CompleteFutureDemo" />
       <module name="ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.*" />
+          <option name="PATTERN" value="concurrency.executor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MAIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocp.MAIN" />
-      <module name="OCP" />
+    <configuration name="DemoExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.executor.DemoExecutor" />
+      <module name="ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocp.*" />
+          <option name="PATTERN" value="concurrency.executor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SendHtmlEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mail.SendHtmlEmail" />
+    <configuration name="Schedule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.executor.Schedule" />
       <module name="ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mail.*" />
+          <option name="PATTERN" value="concurrency.executor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SendHtmlEmail" />
+        <item itemvalue="Application.DemoExecutor" />
+        <item itemvalue="Application.CompleteFutureDemo" />
+        <item itemvalue="Application.Schedule" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DemoCompleteFuture" />
-        <item itemvalue="Application.CompleteFutureExample" />
-        <item itemvalue="Application.MAIN" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696252655751</updated>
       <workItem from="1696252657022" duration="6343000" />
-      <workItem from="1696259322839" duration="13375000" />
+      <workItem from="1696259322839" duration="30255000" />
     </task>
     <servers />
   </component>
