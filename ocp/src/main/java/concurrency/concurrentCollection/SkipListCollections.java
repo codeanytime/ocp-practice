@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentSkipListSet;
  * Class: SkipListCollections
  */
 public class SkipListCollections {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         SortedSet<String> set = new ConcurrentSkipListSet();
         set.add("B");
         set.add("A");
