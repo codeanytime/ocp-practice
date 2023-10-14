@@ -7,7 +7,7 @@
 #Review questions
 1. F
 2. A,B,C,D -> **B,C**
-3. A
+3. A -> **D**
 4. C
 5. Not answer
 6. Not answer

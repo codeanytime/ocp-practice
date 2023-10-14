@@ -4,7 +4,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.stream.Stream;
+import java.nio.file.attribute.FileTime;
+import java.sql.Timestamp;
+import java.time.Instant;
 
 /**
  * @author thanhch
@@ -34,5 +36,11 @@ public class SymbolicLinkDemo {
         }
         System.out.println(Files.isSymbolicLink(link));
         System.out.println(Files.readSymbolicLink(link));
+        System.out.println(ResourceManage.getBasicAttributes(hardLink).lastModifiedTime());
+        ResourceManage.getBasicAttributeView(hardLink).setTimes(FileTime.from(Instant.parse("1999-10-11T12:51:38.209922Z")),
+                null,
+                null);
+        System.out.println("1 --- " + ResourceManage.getBasicAttributes(hardLink).lastModifiedTime());
+        System.out.println(ResourceManage.getBasicAttributeView(hardLink).readAttributes().isDirectory());
     }
 }

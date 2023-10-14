@@ -4,6 +4,10 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.attribute.BasicFileAttributeView;
+import java.nio.file.attribute.BasicFileAttributes;
+import java.nio.file.attribute.PosixFileAttributeView;
+import java.nio.file.attribute.PosixFileAttributes;
 import java.util.stream.Stream;
 
 /**
@@ -59,5 +63,13 @@ public final class ResourceManage {
         } else {
             return;
         }
+    }
+
+    public static BasicFileAttributes getBasicAttributes(Path path) throws IOException {
+        return Files.readAttributes(path, BasicFileAttributes.class);
+    }
+
+    public static BasicFileAttributeView getBasicAttributeView(Path path) throws IOException {
+        return Files.getFileAttributeView(path, BasicFileAttributeView.class);
     }
 }

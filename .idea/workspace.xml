@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/NIO2.md" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/NIO2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/SymbolicLinkDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/SymbolicLinkDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/copyFolder/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/copyFolder/abc.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/copyFolder/link/234.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/copyFolder/link/234.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
