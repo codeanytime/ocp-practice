@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/NIO2.md" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/NIO2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/NIO2Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/NIO2Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/copyFolder/COPY_NIO2.md" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/javaNIO2/copyFolder/COPY_NIO2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696252655751</updated>
       <workItem from="1696252657022" duration="6343000" />
-      <workItem from="1696259322839" duration="119446000" />
+      <workItem from="1696259322839" duration="122713000" />
     </task>
     <servers />
   </component>
@@ -193,12 +195,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ocp/src/main/java/javaNIO2/NIO2Method.java</url>
-          <line>60</line>
+          <line>59</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ocp/src/main/java/javaNIO2/NIO2Method.java</url>
-          <line>64</line>
+          <line>69</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>

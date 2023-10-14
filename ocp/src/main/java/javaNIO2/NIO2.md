@@ -9,4 +9,9 @@
 2. A,B,C,D
 3. A
 4. C
-5. 
+5. Not answer
+6. Not answer
+7. Not answer
+8. Not answer
+9. A,B,C
+10. 

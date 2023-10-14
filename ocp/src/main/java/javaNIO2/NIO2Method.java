@@ -1,9 +1,9 @@
 package javaNIO2;
 
-import java.io.File;
 import java.io.IOException;
 import java.nio.file.*;
 import java.nio.file.attribute.UserPrincipal;
+import java.util.List;
 import java.util.stream.Stream;
 
 /**
@@ -53,9 +53,19 @@ public class NIO2Method {
             });
         }
         System.setProperty("java.io.tmpdir", "ocp/src/main/java/javaNIO2/copyFolder");
-        Path tempPath = Files.createTempFile("temp", ".java");
-        System.out.println(tempPath.toRealPath(LinkOption.NOFOLLOW_LINKS));
+        Path tempPath = Files.createTempFile("temp", ".txt");
+        Files.copy(Paths.get("ocp/src/main/java/javaNIO2/NIO2Method.java"), tempPath, StandardCopyOption.REPLACE_EXISTING);
+
+        Files.readAllLines(Paths.get("ocp/src/main/java/javaNIO2/NIO2Method.java"));
         listFileExtensionInFolder("ocp/src/main/java/javaNIO2", "java");
+
+        // Clear resource
+        CleanResource.clear("ocp/src/main/java/javaNIO2/copyFolder", "txt");
+
+        Path path1 = Paths.get("/pets/../cat.txt");
+        Path path2 = Paths.get("./dog.txt");
+        System.out.println(path1.resolve(path2));
+        System.out.println(path2.resolve(path1));
     }
 
     private static void listFileExtensionInFolder(String sourceFolder, String extension) throws IOException {
