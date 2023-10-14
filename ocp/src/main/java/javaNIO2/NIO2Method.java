@@ -1,5 +1,6 @@
 package javaNIO2;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.*;
 import java.nio.file.attribute.UserPrincipal;
@@ -51,6 +52,9 @@ public class NIO2Method {
                 }
             });
         }
+        System.setProperty("java.io.tmpdir", "ocp/src/main/java/javaNIO2/copyFolder");
+        Path tempPath = Files.createTempFile("temp", ".java");
+        System.out.println(tempPath.toRealPath(LinkOption.NOFOLLOW_LINKS));
         listFileExtensionInFolder("ocp/src/main/java/javaNIO2", "java");
     }
 
