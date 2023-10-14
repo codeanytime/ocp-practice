@@ -12,4 +12,6 @@
 5. Not answer
 6. Not answer
 7. Not answer
-8. 
+8. Not answer
+9. A,B,C
+10. 
