@@ -35,5 +35,7 @@ public class ExerciseWithNio2 {
         System.out.println(path1.resolve(path2));
         // = path1 + path3 (path3 coi la thu muc - path3 relative path)
         System.out.println(path1.resolve(path3));
+        // = path1
+        System.out.println(path3.resolve(path1));
     }
 }
