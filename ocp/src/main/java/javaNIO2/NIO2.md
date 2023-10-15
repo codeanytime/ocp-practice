@@ -11,9 +11,9 @@ Vi du:
 * Path path2 = new File("/lizard/././actions/../walking.txt").toPath()
    * Loai bo actions/.. va . du thua -> /lizard/walking.txt 
 * resolve:
-   * ####Absolute path (bat dau = "/" or "A,B,C.." - volume window): 
+   * ####Absolute path (bat dau = "/" - co duong dan goc): 
      * ####path1.resolve(path2) = path2#
-   * relative path 
+   * ####Khong co duong dan goc: = path1 + path2
 #Review questions
 1. F
 2. A,B,C,D -> **B,C**

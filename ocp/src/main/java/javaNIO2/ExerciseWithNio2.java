@@ -30,6 +30,7 @@ public class ExerciseWithNio2 {
         Path path1 = Paths.get("/lizard/././actions/../walking.txt");
         Path path2 = Paths.get("/abc");
         Path path3 = Paths.get("abc");
+        Path path4 = Paths.get("C:\\abc");
 
         // = abc do path3 la absolute path (bat dau bang /)
         System.out.println(path1.resolve(path2));
@@ -37,5 +38,6 @@ public class ExerciseWithNio2 {
         System.out.println(path1.resolve(path3));
         // = path1
         System.out.println(path3.resolve(path1));
+        System.out.println(path1.resolve(path4));
     }
 }
