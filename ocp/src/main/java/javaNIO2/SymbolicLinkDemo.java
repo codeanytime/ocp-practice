@@ -42,5 +42,17 @@ public class SymbolicLinkDemo {
                 null);
         System.out.println("1 --- " + ResourceManage.getBasicAttributes(hardLink).lastModifiedTime());
         System.out.println(ResourceManage.getBasicAttributeView(hardLink).readAttributes().isDirectory());
+
+//        Path pathFolder = Paths.get("/Users/thanhch/Documents/WORK/ocp-practice/ocp/src/main/java/javaNIO2/copyFolder/tmp");
+//        Path symLink = Files.createSymbolicLink(Paths.get("/Users/thanhch/Documents/WORK/ocp-practice/ocp/src/main/java/javaNIO2/123.txt"),
+//                pathFolder);
+//        System.out.println(Files.isDirectory(symLink));
+//        System.out.println(Files.isRegularFile(link));
+
+        Path path1 = Paths.get("/pets/../cat.txt");
+        Path path2 = Paths.get("./dog.txt");
+        System.out.println(path1.getRoot());
+        System.out.println(path1.resolve(path2));
+        System.out.println(path2.resolve(path1));
     }
 }

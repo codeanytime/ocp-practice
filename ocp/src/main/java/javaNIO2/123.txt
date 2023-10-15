@@ -1,0 +1,1 @@
+/Users/thanhch/Documents/WORK/ocp-practice/ocp/src/main/java/javaNIO2/copyFolder/tmp

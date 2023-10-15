@@ -4,24 +4,34 @@
 ***
 ![markdown](Screen Shot 2023-10-13 at 19.59.33.png)
 ***
+#Loai bo director/. .. du thua khoi path
+Vi du: 
+* Paths.get("/lizard/./").resolve(Paths.get("walking.txt"));
+   * -> /lizard/walking.txt
+* Path path2 = new File("/lizard/././actions/../walking.txt").toPath()
+   * Loai bo actions/.. va . du thua -> /lizard/walking.txt 
+* resolve:
+   * ####Absolute path (bat dau = "/" or "A,B,C.." - volume window): 
+     * ####path1.resolve(path2) = path2#
+   * relative path 
 #Review questions
 1. F
 2. A,B,C,D -> **B,C**
 3. A -> **D**
 4. C
-5. Not answer
-6. Not answer
-7. Not answer
-8. Not answer
-9. A,B,C
-10. Not answer
-11. Not answer
+5. Not answer -> **B,C,D**
+6. Not answer -> **C**
+7. Not answer -> **E**
+8. Not answer -> **A**
+9. A,B,C -> **B,C**
+10. Not answer -> **C,E**
+11. Not answer -> **A**
 12. A,F,G
-13. A
+13. A -> **B**
 14. E
-15. A,C,E,F
+15. A,C,E,F -> **D,E,F**
 16. F
-17. G
-18. Not answer
+17. G -> **A,G**
+18. Not answer -> **D**
 19. A,C,E
-20. A
+20. A -> **B**
