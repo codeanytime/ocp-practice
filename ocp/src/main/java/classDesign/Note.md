@@ -12,3 +12,8 @@
 2. Local inner class
 3. Anonymous inner class
 4. Static nested class
+
+***
+1. Enum: contructor must be private  
+(if not default is private when compile)
+

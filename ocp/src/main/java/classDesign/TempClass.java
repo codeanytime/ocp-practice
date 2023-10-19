@@ -30,11 +30,15 @@ class Test extends TempClass{
         TempClass supersub1 = new Test();//You can do this thanks polymorphism
         System.out.println( supersub.getColor() + supersub.number );
         System.out.println( supersub.getColor() + supersub1.number);
+
         List<Integer> input = new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
         Map<Integer, List<Integer>> groups = input.stream().collect(Collectors.groupingBy(s -> s % 10));
         System.out.println(groups);
         List<List<Integer>> partion = new ArrayList<>(groups.values());
         System.out.println(partion);
+
+        System.out.println(EnumDemo.SUMMER);
+        System.out.println(EnumDemo.SUMMER.getTemperature());
     }
 }
 
