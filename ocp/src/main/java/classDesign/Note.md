@@ -11,9 +11,23 @@
         B b = a.new B();
 2. Local inner class
 3. Anonymous inner class
-4. Static nested class
+4. Static nested class -> Not a inner class.
+Cannot access class member.
 
 ***
-1. Enum: contructor must be private  
+1. ### Enum: contructor must be private  
 (if not default is private when compile)
+***
+###Overload
+- exact match
+- super class
+- larger primitive type
+- autobox
+- varargs
+###Override
+- access modifier must be same | more accessible
+- same or more restricted type
+- checked exception (sub type or same)
+- Method must not be static
+- return type must be same or coverant type
 
