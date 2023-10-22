@@ -31,3 +31,26 @@ Cannot access class member.
 - Method must not be static
 - return type must be same or coverant type
 
+### REVIEW QUESTION
+1. A
+2. A
+3. C
+4. C
+5. A,D
+6. B
+7. E
+8. B
+9. C
+10. C
+11. D
+12. E
+13. B
+14. Not answer
+15. E
+16. E
+17. G
+18. G
+19. A,C
+20. A
+21. Not answer
+
