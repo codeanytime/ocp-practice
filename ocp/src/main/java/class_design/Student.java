@@ -1,5 +1,7 @@
-package classDesign;
+package class_design;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 
 /**
@@ -63,6 +65,10 @@ public class Student {
         System.out.println(EnumDemo.WINTER.ordinal());
         if (null instanceof Student) {
             System.out.println("null is ");
+        }
+        List<Student> list = new ArrayList<>();
+        if (list instanceof Student) {
+            System.out.println("not compile");
         }
     }
 }

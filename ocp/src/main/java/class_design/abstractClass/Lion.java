@@ -1,4 +1,4 @@
-package classDesign.abstractClass;
+package class_design.abstractClass;
 
 /**
  * @author thanhch

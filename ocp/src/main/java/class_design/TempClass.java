@@ -1,7 +1,6 @@
-package classDesign;
+package class_design;
 
 import java.util.*;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**

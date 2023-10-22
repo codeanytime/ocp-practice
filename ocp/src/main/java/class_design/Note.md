@@ -39,18 +39,18 @@ Cannot access class member.
 5. A,D
 6. B
 7. E
-8. B
-9. C
+8. B -> C (inner class khong duoc chua static method | static variable)
+9. C -> B
 10. C
 11. D
 12. E
 13. B
-14. Not answer
-15. E
+14. Not answer -> E
+15. E -> B,E
 16. E
-17. G
+17. G -> B,C
 18. G
 19. A,C
-20. A
-21. Not answer
+20. A -> C
+21. Not answer -> A,C,E
 

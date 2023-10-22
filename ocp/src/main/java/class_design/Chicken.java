@@ -1,6 +1,6 @@
-package classDesign;
+package class_design;
 
-import classDesign.abstractClass.Animal;
+import class_design.abstractClass.Animal;
 
 /**
  * @author thanhch

@@ -1,6 +1,6 @@
-package classDesign;
+package class_design;
 
-import classDesign.innerClass.Outer;
+import class_design.innerClass.Outer;
 
 /**
  * @author thanhch

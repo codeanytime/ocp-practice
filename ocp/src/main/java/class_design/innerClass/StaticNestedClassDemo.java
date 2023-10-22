@@ -1,4 +1,4 @@
-package classDesign.innerClass;
+package class_design.innerClass;
 
 /**
  * @author thanhch
