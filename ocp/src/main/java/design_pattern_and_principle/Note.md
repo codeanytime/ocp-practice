@@ -4,6 +4,14 @@
 ***
 ###Design pattern
 1. Singleton
+   * No public constructor
+   * static method to create instance
+   * final field (param of static method) type of class singleton
 2. Immutable
-3. Builder
-4. Factory
+   * Use constructor to set all properties
+   * All field mark private final
+   * No setter method
+   * No reference object allow direct access to modify access directly
+   * Prevent method from overridden
+4. Builder
+5. Factory
