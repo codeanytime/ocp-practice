@@ -13,5 +13,7 @@
    * No setter method
    * No reference object allow direct access to modify access directly
    * Prevent method from overridden
-4. Builder
-5. Factory
+3. Builder
+   * Tightly couple mode
+   * Often create by: static builder class in target class 
+4. Factory
