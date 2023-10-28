@@ -36,3 +36,10 @@ objects
 3. isEmpty(), size()
 4. clear()
 5. contains()
+#### ArrayDeque
+#### PUSH IS NOT IN QUEUE COMMON.
+![markdown](3.png)
+![markdown](4.png)
+***
+#### MAP METHOD
+![markdown](5.png)
