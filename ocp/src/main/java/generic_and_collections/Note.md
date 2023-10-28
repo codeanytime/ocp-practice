@@ -43,3 +43,8 @@ objects
 ***
 #### MAP METHOD
 ![markdown](5.png)
+
+### Comparator VS Comparable
+1. Comparator: compare()
+2. Comparable: compareTo() 
+3. Note key to compare must not be null. If null -> Exception 
