@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.function.BiFunction;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import static java.util.Comparator.comparing;
 
@@ -39,7 +42,7 @@ public class CompareDemo {
         };
 
         // Use comparing
-        Comparator<Dog> dogNameReverseComparator = Comparator.comparing(Dog::getName, Comparator.reverseOrder());
+        Comparator<Dog> dogNameReverseComparator = Comparator.comparing(d -> d.getName(), Comparator.reverseOrder());
 
         dogList.sort(dogComparator);
         PrintCollection.printAllElement(dogList);
@@ -47,5 +50,27 @@ public class CompareDemo {
         PrintCollection.printAllElement(dogList);
         Collections.sort(dogList, dogNameReverseComparator);
         PrintCollection.printAllElement(dogList);
+
+        List<Integer> intList;
+        Stream<Integer> intStream = Stream.iterate(100, n -> n - 1).limit(50);
+        intList = intStream.collect(Collectors.toList());
+        Collections.sort(intList);
+        PrintCollection.printAllElement(intList);
+        Integer search = Collections.binarySearch(intList, 60);
+        System.out.println("Search " + search); // -> return index in list of 60 (9)
+        Collections.reverse(intList);
+        Integer searchNotFound = Collections.binarySearch(intList, 60);
+        System.out.println("Not found " + searchNotFound); // -> return -1
+        intList.removeIf(i -> i % 2 == 0);
+
+        BiFunction<Dog, Dog, Dog> dogConcat = (d1, d2) -> {
+            Dog dog = new Dog(d1.getId() + d2.getId(), d1.getName() + " " + d2.getName());
+            return dog;
+        };
+
+        Dog d1 = new Dog(1, "Mickey");
+        Dog d2 = new Dog(2, "M");
+        Dog d3 = dogConcat.apply(d1, d2);
+        System.out.println(d3);
     }
 }
