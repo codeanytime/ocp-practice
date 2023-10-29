@@ -52,3 +52,30 @@ objects
 ***
 ### Update map method in java 8
 ![markdown](6.png)
+
+### REVIEW
+1. B
+2. C -> D
+3. C -> E
+4. F -> E
+5. B,C,F
+6. B -> C
+7. B -> A,D
+8. E -> C
+9. E
+10. E -> A
+11. B -> A
+12. A,B -> A,B,D
+13. B,C,E -> B,E
+14. E -> C
+15. D
+16. B,D,F
+17. B,C,D,F -> B,D
+18. A,B,C -> A,B
+19. A -> A,D
+20. E
+21. A,F
+22. F -> B
+23. B,E
+24. B,C,F -> F
+25. G -> F
