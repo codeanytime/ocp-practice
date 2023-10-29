@@ -48,3 +48,7 @@ objects
 1. Comparator: compare()
 2. Comparable: compareTo() 
 3. Note key to compare must not be null. If null -> Exception 
+
+***
+### Update map method in java 8
+![markdown](6.png)
