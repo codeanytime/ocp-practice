@@ -11,4 +11,5 @@
 5. UnaryOperator : apply
 6. Supplier: 0 param return T
 7. Consumer:  1 param return void
-8. Optional
+8. Optional  
+![markdown](img/2.png)
