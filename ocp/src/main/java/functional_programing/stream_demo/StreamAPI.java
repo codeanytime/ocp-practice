@@ -62,5 +62,11 @@ public class StreamAPI {
 
         LongStream logStream = LongStream.of(1, 2, 3, 4);
         logStream.boxed().forEach(i -> System.out.println(i.getClass()));
+
+        IntStream intStream3 = IntStream.rangeClosed(1, 10000);
+        IntSummaryStatistics statistic = intStream3.summaryStatistics();
+        System.out.println("AVERAGE " + statistic.getAverage());
+        System.out.println("MAX " + statistic.getMax());
+        System.out.println("MIN " + statistic.getMin());
     }
 }
