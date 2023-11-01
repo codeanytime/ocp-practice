@@ -21,10 +21,11 @@ public class OptionalDemo {
         emptyOpt.ifPresent(x -> System.out.println(x));
         String nullOpt2 = Optional.ofNullable(s1).orElseGet(() -> "default");
         System.out.println(nullOpt2);
-        String nullOpt = Optional.ofNullable(s1).orElseThrow(() -> new Exception("null value"));
-        System.out.println(nullOpt.length());
+//        String nullOpt = Optional.ofNullable(s1).orElseThrow(() -> new Exception("null value"));
+//        System.out.println(nullOpt.length());
 
 //        Optional.of(null); // -> NPE. It's different between of & ofNullable.
-
+        Optional<String> str = Optional.of("hello");
+        str.ifPresent((s10) -> System.out.println(s10));
     }
 }

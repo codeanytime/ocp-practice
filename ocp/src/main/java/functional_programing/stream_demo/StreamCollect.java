@@ -60,5 +60,8 @@ public class StreamCollect {
         System.out.println(statistics.getAverage());
         System.out.println(statistics.getCount());
         System.out.println(statistics.getSum());
+
+        numList.stream().filter(i -> i % 13 == 0).peek(i -> System.out.println("Element found: " + i))
+                .collect(Collectors.toList());
     }
 }
