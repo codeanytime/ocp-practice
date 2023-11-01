@@ -13,3 +13,9 @@
 7. Consumer:  1 param return void
 8. Optional  
 ![markdown](img/2.png)
+***
+Creating an Optional uses Optional.empty() or
+Optional.of(). Retrieval frequently uses ifPresent() and get(). Alternatively, there are
+the functional ifPresent() and orElseGet() methods. 
+
+![markdown](img/3.png)
