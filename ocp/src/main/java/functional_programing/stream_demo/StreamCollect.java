@@ -52,6 +52,11 @@ public class StreamCollect {
         numList.add(101);
         numList.add(7);
         numList.add(13);
+        System.out.println("_________");
+        numList.stream().peek(s -> System.out.println("FILTER PEEK " + s)).filter(x -> x >= 101).count();
+
+        Map<Boolean, List<Integer>> mapParition = numList.stream().collect(Collectors.partitioningBy(n -> n < 100));
+        System.out.println(mapParition);
 
         IntStream streamInt = numList.stream().mapToInt(Integer::valueOf);
         IntSummaryStatistics statistics = streamInt.summaryStatistics();
