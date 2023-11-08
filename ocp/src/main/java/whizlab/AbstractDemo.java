@@ -7,8 +7,8 @@ package whizlab;
  * <p>
  * Class: AbstractDemo
  */
-public class AbstractDemo implements InterfaceDemo {
-    public void print() {
-        System.out.println("Method in abstract");
-    }
+public abstract class AbstractDemo implements InterfaceDemo, AnotherInterface {
+//    public void print() {
+//        System.out.println("Method in abstract");
+//    }
 }
