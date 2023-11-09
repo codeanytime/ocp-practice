@@ -3,7 +3,6 @@ package generic_and_collections;
 import generic_and_collections.model.Animal;
 import generic_and_collections.model.Dog;
 
-import javax.print.Doc;
 import java.util.*;
 
 /**

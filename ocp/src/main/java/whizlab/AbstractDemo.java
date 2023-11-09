@@ -11,4 +11,9 @@ public abstract class AbstractDemo implements InterfaceDemo, AnotherInterface {
 //    public void print() {
 //        System.out.println("Method in abstract");
 //    }
+    private String name = "common";
+
+    public void printName() {
+        System.out.println(name);
+    }
 }

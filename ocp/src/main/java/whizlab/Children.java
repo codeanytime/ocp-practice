@@ -8,8 +8,10 @@ package whizlab;
  * Class: Children
  */
 public class Children extends AbstractDemo implements InterfaceDemo{
+
     public static void main(String[] args) {
-        Children c = new Children();
+        AbstractDemo c = new Children();
         c.print();
+        c.printName();
     }
 }
