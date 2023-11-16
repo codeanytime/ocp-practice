@@ -5,30 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/CollectionExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/ConcurrentExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/ExceptionExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/GenericExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/IOExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/LocaleExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_3/OrientationExam3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_module/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_module/src/test/ChildrenAnno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_module/src/test/ClassModuleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_module/src/test/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_module/src/test/MyAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_module/src/test/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_module/test_module.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/SerializeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/model/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/model/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/model/C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ocp-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ocp-practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_module/python_module.iml" beforeDir="false" afterPath="$PROJECT_DIR$/python_module/python_module.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_module/src/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_module/src/hello.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +29,7 @@
         <option value="Interface" />
         <option value="package-info" />
         <option value="module-info" />
+        <option value="Python Script" />
         <option value="Class" />
       </list>
     </option>
@@ -92,7 +81,7 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassModuleTest">
+  <component name="RunManager" selected="Application.SerializeDemo">
     <configuration name="ClassModuleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.ClassModuleTest" />
       <module name="test_module" />
@@ -106,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcurrentExam3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="whizlab.exam_3.ConcurrentExam3" />
+    <configuration name="NativeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whizlab.exam_3.NativeDemo" />
       <module name="ocp" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericExam3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="whizlab.exam_3.GenericExam3" />
+    <configuration name="Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whizlab.exam_4.Review" />
       <module name="ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="whizlab.exam_3.*" />
+          <option name="PATTERN" value="whizlab.exam_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocaleExam3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="whizlab.exam_3.LocaleExam3" />
+    <configuration name="SerializeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whizlab.exam_4.SerializeDemo" />
       <module name="ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="whizlab.exam_3.*" />
+          <option name="PATTERN" value="whizlab.exam_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,33 +134,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="whizlab.Test" />
-      <module name="ocp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="whizlab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_module/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_module/src/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.ConcurrentExam3" />
-      <item itemvalue="Application.LocaleExam3" />
-      <item itemvalue="Application.GenericExam3" />
       <item itemvalue="Application.ClassModuleTest" />
+      <item itemvalue="Application.NativeDemo" />
+      <item itemvalue="Python.hello" />
+      <item itemvalue="Application.Review" />
+      <item itemvalue="Application.SerializeDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializeDemo" />
+        <item itemvalue="Application.Review" />
         <item itemvalue="Application.ClassModuleTest" />
-        <item itemvalue="Application.GenericExam3" />
-        <item itemvalue="Application.LocaleExam3" />
-        <item itemvalue="Application.ConcurrentExam3" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.NativeDemo" />
+        <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +184,7 @@
       <workItem from="1696252657022" duration="6343000" />
       <workItem from="1696259322839" duration="129732000" />
       <workItem from="1698687051692" duration="74835000" />
-      <workItem from="1699814951890" duration="21917000" />
+      <workItem from="1699814951890" duration="31447000" />
     </task>
     <servers />
   </component>
@@ -261,7 +259,44 @@
           <line>26</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/Review.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/Review.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/SerializeDemo.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/model/A.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/model/B.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/model/C.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ocp_practice$hello.coverage" NAME="hello Coverage Results" MODIFIED="1700139010859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_module/src" />
   </component>
 </project>

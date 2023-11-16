@@ -126,10 +126,6 @@ g
 7ocp/src/main/java/generic_and_collections/review/A.java,6/6/6656faa95070689bdbcf644c7f538bf72080bc9a
 e
 5ocp/src/main/java/functional_programing/review/A.java,5/e/5e6cd7cfa9d9bda32d1f12fe741db1365dfe5f03
-w
-Gocp/src/main/java/functional_programing/lambda/LambdaVariableScope.java,c/3/c382705c5a32d9275d8322d3541c91cc8f4c7f03
-q
-Aocp/src/main/java/functional_programing/lambda/TriFunctional.java,f/b/fb051dd216e890f17ddc4e28b582b068f94a7654
 e
 5ocp/src/main/java/functional_programing/review/B.java,6/6/663fb931dbbcc0e8ade5fa87b7364916c57063b9
 e

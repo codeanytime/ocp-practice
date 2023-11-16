@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ocp/ocp.iml" filepath="$PROJECT_DIR$/ocp/ocp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ocp-practice.iml" filepath="$PROJECT_DIR$/.idea/ocp-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python_module/python_module.iml" filepath="$PROJECT_DIR$/python_module/python_module.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_module/test_module.iml" filepath="$PROJECT_DIR$/test_module/test_module.iml" />
     </modules>
   </component>
