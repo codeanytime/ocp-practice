@@ -9,9 +9,8 @@
         <module name="ocp" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="OCP" target="1.5" />
-      <module name="ocp" target="1.8" />
+    <bytecodeTargetLevel target="11">
+      <module name="ocp" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
