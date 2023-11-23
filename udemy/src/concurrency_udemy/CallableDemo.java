@@ -1,4 +1,4 @@
-package concurrency;
+package concurrency_udemy;
 
 import java.util.ArrayList;
 import java.util.concurrent.*;

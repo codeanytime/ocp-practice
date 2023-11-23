@@ -1,5 +1,5 @@
 #About concurrent collection
-https://funix.udemy.com/course/ocp11_from_oca8/learn/lecture/30186438#questions
+https://funix.concurrency_udemy.com/course/ocp11_from_oca8/learn/lecture/30186438#questions
 
 
 ![markdown](img/screenshot-funix.udemy.com-2023.10.08-19_05_41.png)

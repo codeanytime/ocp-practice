@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/udemy/src/concurrency/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/src/concurrency/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/src/concurrency/TestTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/src/io/TestIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/src/locale/LocaleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/src/locale/src/main/resources/Snacks.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/concurrency_udemy/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/concurrency_udemy/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/concurrency_udemy/ExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/concurrency_udemy/FutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/concurrency_udemy/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/jdbc/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/jdbc/JdbcExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp/ocp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/ocp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/concurrency/concurrentCollection/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/ocp/src/main/java/concurrency/concurrentCollection/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocp/src/main/java/functional_programing/img/Screen Shot 2023-11-13 at 22.21.56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy/concurrency/CallableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy/concurrency/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/udemy/concurrency/TestTemp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/src/concurrency/CallableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/src/concurrency_udemy/CallableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/src/concurrency/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/src/concurrency_udemy/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/src/concurrency/TestTemp.java" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/src/concurrency_udemy/TestTemp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/udemy/udemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/udemy/udemy.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +39,8 @@
       <list>
         <option value="Interface" />
         <option value="package-info" />
-        <option value="module-info" />
         <option value="Python Script" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -80,9 +94,9 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestIO">
-    <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.CallableDemo" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.CollectionDemo" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocaleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="locale.LocaleDemo" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.Demo" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="locale.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,38 +121,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="whizlab.exam_4.SerializeDemo" />
-      <module name="ocp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="whizlab.exam_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.TestIO" />
-      <module name="udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.TestTemp" />
+    <configuration name="FutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.FutureDemo" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.JdbcExample" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.JdbcException" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SerializeDemo" />
-      <item itemvalue="Application.CallableDemo" />
-      <item itemvalue="Application.TestTemp" />
-      <item itemvalue="Application.LocaleDemo" />
-      <item itemvalue="Application.TestIO" />
+      <item itemvalue="Application.FutureDemo" />
+      <item itemvalue="Application.CollectionDemo" />
+      <item itemvalue="Application.JdbcExample" />
+      <item itemvalue="Application.JdbcException" />
+      <item itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestIO" />
-        <item itemvalue="Application.LocaleDemo" />
-        <item itemvalue="Application.TestTemp" />
-        <item itemvalue="Application.CallableDemo" />
-        <item itemvalue="Application.SerializeDemo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.JdbcException" />
+        <item itemvalue="Application.JdbcExample" />
+        <item itemvalue="Application.CollectionDemo" />
+        <item itemvalue="Application.FutureDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +188,7 @@
       <workItem from="1696252657022" duration="6343000" />
       <workItem from="1696259322839" duration="129732000" />
       <workItem from="1698687051692" duration="74835000" />
-      <workItem from="1699814951890" duration="44711000" />
+      <workItem from="1699814951890" duration="68946000" />
     </task>
     <servers />
   </component>
@@ -278,6 +292,61 @@
           <url>file://$PROJECT_DIR$/ocp/src/main/java/whizlab/exam_4/model/C.java</url>
           <line>11</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/JdbcException.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/Demo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/Demo.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/udemy/src/jdbc/Demo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
