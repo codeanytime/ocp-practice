@@ -114,8 +114,6 @@ r
 Bocp/src/main/java/generic_and_collections/review/MyComparator.java,4/a/4ae6abb37a55bf1d3a009285b16a1187878bcc12
 k
 ;ocp/src/main/java/generic_and_collections/review/Hello.java,2/0/2094a42c6898ffab7761b9ccf25682db2f3b173b
-q
-Aocp/src/main/java/generic_and_collections/review/ReviewClass.java,e/b/ebe81c859e54323c9b2b580b7a283917c076a286
 g
 7ocp/src/main/java/generic_and_collections/review/D.java,d/2/d2659e552ef6d424a9fe73e7d182e91e873c5b43
 g
