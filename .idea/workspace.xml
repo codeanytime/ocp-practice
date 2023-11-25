@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/core.ocp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/service/DBService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/service/InfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/InfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduleB/src/com/moduleB/core/BInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduleA/moduleA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/moduleA/moduleA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduleA/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/moduleA/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduleB/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/moduleB/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/moduleA/com/moduleA/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/moduleA/com/moduleA/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/moduleA/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/moduleA/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/moduleB/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/moduleB/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +167,7 @@
       <workItem from="1696252657022" duration="6343000" />
       <workItem from="1696259322839" duration="129732000" />
       <workItem from="1698687051692" duration="74835000" />
-      <workItem from="1699814951890" duration="89208000" />
+      <workItem from="1699814951890" duration="91462000" />
     </task>
     <servers />
   </component>
@@ -339,6 +326,11 @@
           <url>file://$PROJECT_DIR$/udemy/src/jdbc/Demo.java</url>
           <line>20</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
