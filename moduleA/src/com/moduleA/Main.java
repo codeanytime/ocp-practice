@@ -17,7 +17,7 @@ import java.util.stream.Stream;
  * <p>
  * Date: 24/11/2023
  * <p>
- * Class: Main
+ * Class: main.Main
  */
 public class Main {
     public static void main(String[] args) {

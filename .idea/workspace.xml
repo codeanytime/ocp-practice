@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/DeprecateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/TestAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/TestEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/moduleA/com/moduleA/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/moduleA/com/moduleA/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core.ocp/core.ocp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/core.ocp/core.ocp.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +22,8 @@
         <option value="module-info" />
         <option value="Interface" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,7 +63,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -90,13 +85,13 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.moduleC.CMain" />
-      <module name="moduleC" />
+  <component name="RunManager" selected="Application.Q14">
+    <configuration name="Q12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q12" />
+      <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.moduleC.*" />
+          <option name="PATTERN" value="working_with_stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbc.Demo" />
-      <module name="udemy" />
+    <configuration name="Q13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q13" />
+      <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jdbc.*" />
+          <option name="PATTERN" value="working_with_stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbc.JdbcExample" />
-      <module name="udemy" />
+    <configuration name="Q14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q14" />
+      <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jdbc.*" />
+          <option name="PATTERN" value="working_with_stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbc.JdbcException" />
-      <module name="udemy" />
+    <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q8" />
+      <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jdbc.*" />
+          <option name="PATTERN" value="working_with_stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.moduleA.Main" />
-      <module name="moduleA" />
+    <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q9" />
+      <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.moduleA.*" />
+          <option name="PATTERN" value="working_with_stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +152,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JdbcExample" />
-      <item itemvalue="Application.JdbcException" />
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.CMain" />
+      <item itemvalue="Application.Q8" />
+      <item itemvalue="Application.Q9" />
+      <item itemvalue="Application.Q12" />
+      <item itemvalue="Application.Q13" />
+      <item itemvalue="Application.Q14" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CMain" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.JdbcException" />
-        <item itemvalue="Application.JdbcExample" />
+        <item itemvalue="Application.Q14" />
+        <item itemvalue="Application.Q13" />
+        <item itemvalue="Application.Q12" />
+        <item itemvalue="Application.Q9" />
+        <item itemvalue="Application.Q8" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +180,7 @@
       <workItem from="1696259322839" duration="129732000" />
       <workItem from="1698687051692" duration="74835000" />
       <workItem from="1699814951890" duration="118943000" />
-      <workItem from="1701222427299" duration="734000" />
+      <workItem from="1701222427299" duration="25978000" />
     </task>
     <servers />
   </component>
