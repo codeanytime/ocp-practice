@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/command.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/DeprecateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/TestEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduleA/moduleA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/moduleA/moduleA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/moduleA/com/moduleA/InfoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/moduleA/com/moduleA/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/moduleA/com/moduleA/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +26,9 @@
         <option value="Python Script" />
         <option value="module-info" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -37,6 +42,15 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/moduleA/src/com/moduleA/InfoServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/core.ocp/src/service/InfoService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/command.sh" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/moduleB/src/module-info.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/moduleA/src/module-info.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/moduleA/src/com/moduleA/AClass.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2WD26eh6kixC82J6oOfku2zHfUt" />
   <component name="ProjectViewState">
@@ -170,7 +184,8 @@
       <workItem from="1696252657022" duration="6343000" />
       <workItem from="1696259322839" duration="129732000" />
       <workItem from="1698687051692" duration="74835000" />
-      <workItem from="1699814951890" duration="100698000" />
+      <workItem from="1699814951890" duration="118943000" />
+      <workItem from="1701222427299" duration="734000" />
     </task>
     <servers />
   </component>
@@ -332,7 +347,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java</url>
-          <line>26</line>
+          <line>32</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
