@@ -110,8 +110,6 @@ h
 -ocp/src/main/java/common/PrintCollection.java,a/8/a8e49e5f0051b63b828a668406df2c6a97766602
 j
 :ocp/src/main/java/generic_and_collections/CompareDemo.java,2/1/21369b6da73eca8eb48fbfef65f00a4862020a51
-r
-Bocp/src/main/java/generic_and_collections/review/MyComparator.java,4/a/4ae6abb37a55bf1d3a009285b16a1187878bcc12
 k
 ;ocp/src/main/java/generic_and_collections/review/Hello.java,2/0/2094a42c6898ffab7761b9ccf25682db2f3b173b
 g
