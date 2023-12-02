@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q43.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core.ocp/core.ocp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/core.ocp/core.ocp.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,9 +86,9 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q14">
-    <configuration name="Q12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q12" />
+  <component name="RunManager" selected="Application.Q43">
+    <configuration name="Q29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q29" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q13" />
+    <configuration name="Q35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q35" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q14" />
+    <configuration name="Q39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q39" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q8" />
+    <configuration name="Q40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q40" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q9" />
+    <configuration name="Q43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q43" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -152,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q8" />
-      <item itemvalue="Application.Q9" />
-      <item itemvalue="Application.Q12" />
-      <item itemvalue="Application.Q13" />
-      <item itemvalue="Application.Q14" />
+      <item itemvalue="Application.Q29" />
+      <item itemvalue="Application.Q35" />
+      <item itemvalue="Application.Q39" />
+      <item itemvalue="Application.Q40" />
+      <item itemvalue="Application.Q43" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q14" />
-        <item itemvalue="Application.Q13" />
-        <item itemvalue="Application.Q12" />
-        <item itemvalue="Application.Q9" />
-        <item itemvalue="Application.Q8" />
+        <item itemvalue="Application.Q43" />
+        <item itemvalue="Application.Q40" />
+        <item itemvalue="Application.Q39" />
+        <item itemvalue="Application.Q35" />
+        <item itemvalue="Application.Q29" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +181,7 @@
       <workItem from="1696259322839" duration="129732000" />
       <workItem from="1698687051692" duration="74835000" />
       <workItem from="1699814951890" duration="118943000" />
-      <workItem from="1701222427299" duration="25978000" />
+      <workItem from="1701222427299" duration="41956000" />
     </task>
     <servers />
   </component>
@@ -344,6 +345,39 @@
           <url>file://$PROJECT_DIR$/moduleA/src/com/moduleA/Main.java</url>
           <line>32</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_stream/Q14.java</url>
+          <line>19</line>
+          <properties>
+            <option name="lambda-ordinal" value="1" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_stream/Q28.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_stream/Q28.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_stream/Q28.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_stream/Q35.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_stream/Q39.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
