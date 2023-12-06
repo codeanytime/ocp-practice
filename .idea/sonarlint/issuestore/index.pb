@@ -290,8 +290,6 @@ S
 #moduleC/src/com/moduleC/CClass.java,b/a/baac85c1299ae5ba93c8b96bf443822504fde6df
 P
  moduleB/src/com/moduleB1/B1.java,2/c/2c6d6bccc41e674494e7f132a5e9290d365e49fb
-M
-core.ocp/src/module-info.java,1/7/17ddb67dfbb88c58bd8ef126e6b40ad6b3262a1c
 S
 #core.ocp/src/service/DBService.java,4/0/40b8a44dc176b2289c1516d53161d2c019464ff7
 \

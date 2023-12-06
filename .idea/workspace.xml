@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +86,7 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q99">
+  <component name="RunManager" selected="Application.Q103">
     <configuration name="Q100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="working_with_stream.Q100" />
       <module name="core.ocp" />
@@ -98,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q84" />
+    <configuration name="Q102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q102" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q88" />
+    <configuration name="Q103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q103" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -151,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q84" />
-      <item itemvalue="Application.Q88" />
       <item itemvalue="Application.Q91" />
       <item itemvalue="Application.Q100" />
       <item itemvalue="Application.Q99" />
+      <item itemvalue="Application.Q102" />
+      <item itemvalue="Application.Q103" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q103" />
+        <item itemvalue="Application.Q102" />
         <item itemvalue="Application.Q99" />
         <item itemvalue="Application.Q100" />
         <item itemvalue="Application.Q91" />
-        <item itemvalue="Application.Q88" />
-        <item itemvalue="Application.Q84" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +182,7 @@
       <workItem from="1698687051692" duration="74835000" />
       <workItem from="1699814951890" duration="118943000" />
       <workItem from="1701222427299" duration="71545000" />
+      <workItem from="1701752127580" duration="3487000" />
     </task>
     <servers />
   </component>
