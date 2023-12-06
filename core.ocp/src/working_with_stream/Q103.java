@@ -15,5 +15,9 @@ public class Q103 {
                 .filter(i -> i > 50)
                 .findFirst().getAsInt();
         System.out.println(res);
+
+        int out = IntStream.rangeClosed(1, 1000)
+                .parallel().filter(i -> i > 50).findFirst().getAsInt();
+        System.out.println(out);
     }
 }
