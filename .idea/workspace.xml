@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_stream/Q115.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +83,13 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q115">
-    <configuration name="Q103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q103" />
+  <component name="RunManager" selected="Application.Q20">
+    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q10" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="working_with_stream.*" />
+          <option name="PATTERN" value="working_with_array_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q108" />
+    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q11" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="working_with_stream.*" />
+          <option name="PATTERN" value="working_with_array_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q111" />
+    <configuration name="Q18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q18" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="working_with_stream.*" />
+          <option name="PATTERN" value="working_with_array_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q114" />
+    <configuration name="Q20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q20" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="working_with_stream.*" />
+          <option name="PATTERN" value="working_with_array_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_stream.Q115" />
+    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q6" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="working_with_stream.*" />
+          <option name="PATTERN" value="working_with_array_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +150,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q103" />
-      <item itemvalue="Application.Q108" />
-      <item itemvalue="Application.Q111" />
-      <item itemvalue="Application.Q114" />
-      <item itemvalue="Application.Q115" />
+      <item itemvalue="Application.Q6" />
+      <item itemvalue="Application.Q10" />
+      <item itemvalue="Application.Q11" />
+      <item itemvalue="Application.Q18" />
+      <item itemvalue="Application.Q20" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q115" />
-        <item itemvalue="Application.Q114" />
-        <item itemvalue="Application.Q111" />
-        <item itemvalue="Application.Q108" />
-        <item itemvalue="Application.Q103" />
+        <item itemvalue="Application.Q20" />
+        <item itemvalue="Application.Q18" />
+        <item itemvalue="Application.Q11" />
+        <item itemvalue="Application.Q10" />
+        <item itemvalue="Application.Q6" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +179,7 @@
       <workItem from="1698687051692" duration="74835000" />
       <workItem from="1699814951890" duration="118943000" />
       <workItem from="1701222427299" duration="71545000" />
-      <workItem from="1701752127580" duration="15082000" />
+      <workItem from="1701752127580" duration="21336000" />
     </task>
     <servers />
   </component>
@@ -404,6 +401,36 @@
           <url>file://$PROJECT_DIR$/core.ocp/src/working_with_stream/Q103.java</url>
           <line>18</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q11.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q18.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q18.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q18.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q18.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q18.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
