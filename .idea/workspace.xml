@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q70.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core.ocp/working_with_array_collection/Q48.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core.ocp/working_with_array_collection/Q48.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +88,9 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q57">
-    <configuration name="Q46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q46" />
+  <component name="RunManager" selected="Application.Q70">
+    <configuration name="Q61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q61" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q47" />
+    <configuration name="Q64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q64" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q48" />
+    <configuration name="Q65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q65" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q51" />
+    <configuration name="Q69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q69" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q57" />
+    <configuration name="Q70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q70" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -154,19 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q46" />
-      <item itemvalue="Application.Q47" />
-      <item itemvalue="Application.Q48" />
-      <item itemvalue="Application.Q51" />
-      <item itemvalue="Application.Q57" />
+      <item itemvalue="Application.Q61" />
+      <item itemvalue="Application.Q64" />
+      <item itemvalue="Application.Q65" />
+      <item itemvalue="Application.Q69" />
+      <item itemvalue="Application.Q70" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q57" />
-        <item itemvalue="Application.Q51" />
-        <item itemvalue="Application.Q48" />
-        <item itemvalue="Application.Q47" />
-        <item itemvalue="Application.Q46" />
+        <item itemvalue="Application.Q70" />
+        <item itemvalue="Application.Q69" />
+        <item itemvalue="Application.Q65" />
+        <item itemvalue="Application.Q64" />
+        <item itemvalue="Application.Q61" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +184,7 @@
       <workItem from="1698687051692" duration="74835000" />
       <workItem from="1699814951890" duration="118943000" />
       <workItem from="1701222427299" duration="71545000" />
-      <workItem from="1701752127580" duration="35060000" />
+      <workItem from="1701752127580" duration="42383000" />
     </task>
     <servers />
   </component>
