@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q74.java" beforeDir="false" afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection/Q74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core.ocp/working_with_array_collection/Q74.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core.ocp/working_with_array_collection/Q74.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +87,13 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q74">
-    <configuration name="Q65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q65" />
+  <component name="RunManager" selected="Application.Q10">
+    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q10" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="working_with_array_collection.*" />
+          <option name="PATTERN" value="working_with_array_collection_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection.Q69" />
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q5" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="working_with_array_collection.*" />
+          <option name="PATTERN" value="working_with_array_collection_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +154,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q65" />
-      <item itemvalue="Application.Q69" />
       <item itemvalue="Application.Q70" />
       <item itemvalue="Application.Q71" />
       <item itemvalue="Application.Q74" />
+      <item itemvalue="Application.Q5" />
+      <item itemvalue="Application.Q10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q10" />
+        <item itemvalue="Application.Q5" />
         <item itemvalue="Application.Q74" />
         <item itemvalue="Application.Q71" />
         <item itemvalue="Application.Q70" />
-        <item itemvalue="Application.Q69" />
-        <item itemvalue="Application.Q65" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +183,7 @@
       <workItem from="1698687051692" duration="74835000" />
       <workItem from="1699814951890" duration="118943000" />
       <workItem from="1701222427299" duration="71545000" />
-      <workItem from="1701752127580" duration="46576000" />
+      <workItem from="1701752127580" duration="49136000" />
     </task>
     <servers />
   </component>
