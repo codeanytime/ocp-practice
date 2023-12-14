@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q37.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core.ocp/working_with_array_collection_2/Q30.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core.ocp/working_with_array_collection_2/Q30.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +88,9 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q20">
-    <configuration name="Q15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q15" />
+  <component name="RunManager" selected="Application.Q37">
+    <configuration name="Q27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q27" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q17" />
+    <configuration name="Q30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q30" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q18" />
+    <configuration name="Q31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q31" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q19" />
+    <configuration name="Q36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q36" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q20" />
+    <configuration name="Q37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="working_with_array_collection_2.Q37" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -156,19 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q15" />
-      <item itemvalue="Application.Q17" />
-      <item itemvalue="Application.Q18" />
-      <item itemvalue="Application.Q19" />
-      <item itemvalue="Application.Q20" />
+      <item itemvalue="Application.Q27" />
+      <item itemvalue="Application.Q30" />
+      <item itemvalue="Application.Q31" />
+      <item itemvalue="Application.Q36" />
+      <item itemvalue="Application.Q37" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q20" />
-        <item itemvalue="Application.Q19" />
-        <item itemvalue="Application.Q18" />
-        <item itemvalue="Application.Q17" />
-        <item itemvalue="Application.Q15" />
+        <item itemvalue="Application.Q37" />
+        <item itemvalue="Application.Q36" />
+        <item itemvalue="Application.Q31" />
+        <item itemvalue="Application.Q30" />
+        <item itemvalue="Application.Q27" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +184,7 @@
       <workItem from="1698687051692" duration="74835000" />
       <workItem from="1699814951890" duration="118943000" />
       <workItem from="1701222427299" duration="71545000" />
-      <workItem from="1701752127580" duration="51875000" />
+      <workItem from="1701752127580" duration="63900000" />
     </task>
     <servers />
   </component>
@@ -497,6 +496,21 @@
           <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q19.java</url>
           <line>18</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q26.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q27.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/working_with_array_collection_2/Q36.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
