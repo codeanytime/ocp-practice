@@ -142,8 +142,6 @@ m
 =ocp/src/main/java/functional_programing/review/FixReview.java,a/d/ad47bb13c93f77655ad1106d04ac719a0654704b
 h
 8ocp/src/main/java/functional_programing/review/Rope.java,2/3/23695ea3a424bf2067eb0bd1bd4bf093fc8ded90
-a
-1ocp/src/main/java/generic_and_collections/Note.md,b/4/b474e95893cdb2d334c6f906318267d114ec9487
 q
 Aocp/src/main/java/functional_programing/review/UdemyExercise.java,e/9/e9bc22aedb69c7eb5fe1eea08b04be528f71f485
 [
@@ -323,8 +321,6 @@ V
 &moduleA/src/com/moduleA/TestClass.java,c/d/cd75f9475f5081b4899632ee16a69f4c5376323e
 Z
 *moduleA/src/com/moduleA/DeprecateDemo.java,e/b/eb400e0347d8b1840dc463c50943f3afb97ca7be
-V
-&ocp/src/main/java/class_design/Note.md,8/f/8fb26c2cb548176ca765831e2843c3cf10fc7ddc
 U
 %moduleA/src/com/moduleA/TestEnum.java,a/1/a18c897bcc6759fb998db64cf90c5e4ee8456069
 [
