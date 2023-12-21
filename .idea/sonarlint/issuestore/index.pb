@@ -460,8 +460,6 @@ c
 c
 3core.ocp/src/working_with_array_collection/Q35.java,c/e/ce35dc702b5b673dea3fcdd94cf2b01d8c49ad5e
 c
-3core.ocp/src/working_with_array_collection/Q36.java,a/6/a6def1744f4757203b6ddd0aba6f4392aa2493e0
-c
 3core.ocp/src/working_with_array_collection/Q58.java,b/a/ba1ebe2d9c8123fc9fd02a71ed9c9d2cc16d3ec4
 c
 3core.ocp/src/working_with_array_collection/Q57.java,e/4/e48f1bcc2598996fa102f53157eeb6e04486e524
