@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/object_orientated/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/object_orientated/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCP Oracle Certified Professional Java SE 8 Programmer II Study Guide Exam 1Z0-809.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11 (3)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ocp/src/main/java/functional_programing/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -67,11 +66,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/ocp/src/main/java/functional_programing/img" />
       <recent name="$PROJECT_DIR$/ocp/src/main/java/generic_and_collections" />
       <recent name="$PROJECT_DIR$/ocp/src/main/java/javaNIO2" />
       <recent name="$PROJECT_DIR$/ocp/src/main/java/javaIO/img" />
-      <recent name="$PROJECT_DIR$/ocp/src/main/java/localization" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ocp/src/main/java/localization" />
@@ -182,7 +181,7 @@
       <workItem from="1699814951890" duration="118943000" />
       <workItem from="1701222427299" duration="71545000" />
       <workItem from="1701752127580" duration="75207000" />
-      <workItem from="1702831463923" duration="21432000" />
+      <workItem from="1702831463923" duration="22698000" />
     </task>
     <servers />
   </component>
