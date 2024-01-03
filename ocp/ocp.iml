@@ -21,4 +21,7 @@
     <orderEntry type="library" name="Maven: org.postgresql:postgresql:42.6.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.checkerframework:checker-qual:3.31.0" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="a4cbd7ec-81a1-4a40-aa5f-6b9dd1d93a15" />
+  </component>
 </module>

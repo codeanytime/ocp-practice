@@ -10,4 +10,7 @@
     <orderEntry type="module" module-name="moduleB" />
     <orderEntry type="module" module-name="core.ocp" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="3e4a94ca-3f99-4fbb-9053-364d63bf9bc1" />
+  </component>
 </module>

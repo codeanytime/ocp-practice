@@ -14,4 +14,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Python 2.7 interpreter library" level="application" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="1ae2f771-4123-483d-9d03-3c282c424f3c" />
+  </component>
 </module>

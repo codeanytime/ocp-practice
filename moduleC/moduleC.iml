@@ -10,4 +10,7 @@
     <orderEntry type="module" module-name="moduleA" />
     <orderEntry type="module" module-name="moduleB" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="7456a4ad-e6b0-4a54-8da8-eab2f3f57077" />
+  </component>
 </module>

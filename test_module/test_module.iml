@@ -9,4 +9,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ocp" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="dd06c26b-fd2e-4498-aeb4-3be25c4afcd9" />
+  </component>
 </module>
