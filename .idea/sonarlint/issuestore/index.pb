@@ -302,9 +302,6 @@ S
 #moduleA/src/com/moduleA/AClass.java,2/d/2d8328c186ba26731e88f051961e7aa490307e85
 S
 #moduleB/src/com/moduleB/BClass.java,f/a/faa523dbc133f5683a385583cc2f833bfc846535
-:
-
-command.sh,2/0/20d434b0fa6e0a0b10dfb60a609055b33cbf26fe
 R
 "moduleC/src/com/moduleC/CMain.java,c/7/c7a98b74011f051aa6223f9f31e61198b0838e9c
 L
