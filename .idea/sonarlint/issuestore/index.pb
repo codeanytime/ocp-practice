@@ -637,3 +637,7 @@ X
 (core.ocp/src/concurrency/MyCallable.java,7/4/74e806180a77b16d432fc23f1a205a7925e9b4c5
 a
 1core.ocp/src/concurrency/CompleteTaskExample.java,8/9/894b33ccd6ad8df46c8056201520ef0ead040bd1
+a
+1core.ocp/src/concurrency/ScheduleTaskExample.java,6/4/6440a2c6926c65e34c8e59546868119705e1cc89
+i
+9core.ocp/src/concurrency/CopyOnWriteArrayListExample.java,b/0/b0d3e88afeefda26af972ad5ac6290ddce1c7305

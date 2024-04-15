@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/CompleteTaskExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/datatype/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/CopyOnWriteArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/ScheduleTaskExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core.ocp/src/concurrency/CompleteTaskExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/CompleteTaskExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core.ocp/concurrency/CompleteTaskExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core.ocp/concurrency/CompleteTaskExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -96,7 +95,7 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompleteTaskExample">
+  <component name="RunManager" selected="Application.ScheduleTaskExample">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrency.Client" />
       <module name="core.ocp" />
@@ -123,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object_oriented_2.DateTimeEx" />
+    <configuration name="CopyOnWriteArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.CopyOnWriteArrayListExample" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="object_oriented_2.*" />
+          <option name="PATTERN" value="concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="object_oriented_2.Remote" />
+    <configuration name="ScheduleTaskExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.ScheduleTaskExample" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="object_oriented_2.*" />
+          <option name="PATTERN" value="concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,19 +162,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CopyOnWriteArrayListExample" />
+      <item itemvalue="Application.ScheduleTaskExample" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.CompleteTaskExample" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DateTimeEx" />
-      <item itemvalue="Application.Remote" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScheduleTaskExample" />
+        <item itemvalue="Application.CopyOnWriteArrayListExample" />
         <item itemvalue="Application.CompleteTaskExample" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DateTimeEx" />
-        <item itemvalue="Application.Remote" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +214,8 @@
       <workItem from="1708940111560" duration="598000" />
       <workItem from="1709039974198" duration="187000" />
       <workItem from="1710504048471" duration="2382000" />
-      <workItem from="1712495069820" duration="8894000" />
+      <workItem from="1712495069820" duration="10532000" />
+      <workItem from="1712930825396" duration="6217000" />
     </task>
     <servers />
   </component>
@@ -601,6 +601,29 @@
           <url>file://$PROJECT_DIR$/core.ocp/src/object_orientated/Test1.java</url>
           <line>16</line>
           <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/CopyOnWriteArrayListExample.java</url>
+          <line>19</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/ScheduleTaskExample.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/ScheduleTaskExample.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/ScheduleTaskExample.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/core.ocp/src/object_orientated/Test1.java</url>
