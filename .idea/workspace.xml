@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/CopyOnWriteArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/ScheduleTaskExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/Adder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core.ocp/src/concurrency/CompleteTaskExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/CompleteTaskExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/core.ocp/concurrency/CompleteTaskExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core.ocp/concurrency/CompleteTaskExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core.ocp/src/concurrency/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core.ocp/concurrency/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core.ocp/concurrency/Fibonacci.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,9 +94,9 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScheduleTaskExample">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.Client" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Adder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Adder" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompleteTaskExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.CompleteTaskExample" />
+    <configuration name="CalculateSumBig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.CalculateSumBig" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyOnWriteArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.CopyOnWriteArrayListExample" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Fibonacci" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -135,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatype.Main" />
+    <configuration name="FileSizeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.FileSizeCalculator" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatype.*" />
+          <option name="PATTERN" value="concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScheduleTaskExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.ScheduleTaskExample" />
+    <configuration name="ImageProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.ImageProcessor" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
@@ -162,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CopyOnWriteArrayListExample" />
-      <item itemvalue="Application.ScheduleTaskExample" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.CompleteTaskExample" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Adder" />
+      <item itemvalue="Application.CalculateSumBig" />
+      <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.FileSizeCalculator" />
+      <item itemvalue="Application.ImageProcessor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScheduleTaskExample" />
-        <item itemvalue="Application.CopyOnWriteArrayListExample" />
-        <item itemvalue="Application.CompleteTaskExample" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Adder" />
+        <item itemvalue="Application.CalculateSumBig" />
+        <item itemvalue="Application.ImageProcessor" />
+        <item itemvalue="Application.FileSizeCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +214,7 @@
       <workItem from="1709039974198" duration="187000" />
       <workItem from="1710504048471" duration="2382000" />
       <workItem from="1712495069820" duration="10532000" />
-      <workItem from="1712930825396" duration="6217000" />
+      <workItem from="1712930825396" duration="23962000" />
     </task>
     <servers />
   </component>
@@ -612,11 +611,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/ScheduleTaskExample.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/ScheduleTaskExample.java</url>
           <line>18</line>
           <option name="timeStamp" value="101" />
         </line-breakpoint>
@@ -624,6 +618,26 @@
           <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/ScheduleTaskExample.java</url>
           <line>27</line>
           <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/CalculateFileSize.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/CalculateSumBig.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/CalculateSumBig.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core.ocp/src/concurrency/CalculateSumBig.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/core.ocp/src/object_orientated/Test1.java</url>
