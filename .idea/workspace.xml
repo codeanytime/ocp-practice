@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fc8b3bc-ef32-40bb-97b2-823c99f7e9a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/CopyOnWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/CyclicBarrierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core.ocp/src/concurrency/MyAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/practice/stream/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/practice/stream/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/practice/stream/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core.ocp/src/practice/stream/Ex7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core.ocp/practice/stream/StreamAPI$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core.ocp/practice/stream/StreamAPI$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/core.ocp/practice/stream/StreamAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/core.ocp/practice/stream/StreamAPI.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,13 +97,13 @@
       <recent name="generic_and_collections.review" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Counter">
-    <configuration name="CopyOnWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.CopyOnWrite" />
+  <component name="RunManager" selected="Application.Ex8">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.stream.Ex1" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.*" />
+          <option name="PATTERN" value="practice.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.Counter" />
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.stream.Ex2" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.*" />
+          <option name="PATTERN" value="practice.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicBarrierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.CyclicBarrierExample" />
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.stream.Ex3" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.*" />
+          <option name="PATTERN" value="practice.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.Fibonacci" />
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.stream.Ex7" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.*" />
+          <option name="PATTERN" value="practice.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyAdder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrency.MyAdder" />
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.stream.Ex8" />
       <module name="core.ocp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concurrency.*" />
+          <option name="PATTERN" value="practice.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CopyOnWrite" />
-      <item itemvalue="Application.Counter" />
-      <item itemvalue="Application.CyclicBarrierExample" />
-      <item itemvalue="Application.Fibonacci" />
-      <item itemvalue="Application.MyAdder" />
+      <item itemvalue="Application.Ex1" />
+      <item itemvalue="Application.Ex2" />
+      <item itemvalue="Application.Ex3" />
+      <item itemvalue="Application.Ex7" />
+      <item itemvalue="Application.Ex8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Counter" />
-        <item itemvalue="Application.CyclicBarrierExample" />
-        <item itemvalue="Application.CopyOnWrite" />
-        <item itemvalue="Application.MyAdder" />
-        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.Ex7" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +217,11 @@
       <workItem from="1709039974198" duration="187000" />
       <workItem from="1710504048471" duration="2382000" />
       <workItem from="1712495069820" duration="10532000" />
-      <workItem from="1712930825396" duration="28513000" />
+      <workItem from="1712930825396" duration="29454000" />
+      <workItem from="1714026690704" duration="24000" />
+      <workItem from="1715161548699" duration="4048000" />
+      <workItem from="1716719853797" duration="1953000" />
+      <workItem from="1716990748517" duration="16801000" />
     </task>
     <servers />
   </component>
